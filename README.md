@@ -1,1 +1,1 @@
-MARLO: Manifold Approximation,Graph Reduction and Layout Optimization
+MARLO: Manifold Approximation, Graph Reduction and Layout Optimization
