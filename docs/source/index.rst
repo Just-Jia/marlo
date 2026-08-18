@@ -21,3 +21,4 @@ Contents
 .. toctree::
 
    usage
+   api
